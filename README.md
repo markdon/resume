@@ -2,14 +2,24 @@ Mark Donnellon
 ============
 Modern Web Application Developer
 ------------
-
+<style>
+table {
+    width:100%;
+}
+body {
+    max-width: 800px;
+}
+</style>
 |  |  |                
-|-----------------------------------|-------------------------------:  |
-|Hobart, Tasmania, Australia        | https://twitter.com/markdonnellon|
-|                                   | https://linkedin.com/in/markdonnellon|
-|                                   | https://kudosapps.com/blog?author=5b31e80ea5fcac3e32baf550|
-|                                   | https://github.com/markdon|
+|-----------------------------------|-------------------------------:           |
+| Hobart, Tasmania, Australia       | https://twitter.com/markdonnellon         |
+|                                   | https://linkedin.com/in/markdonnellon     |
+|                                   | http://bit.ly/markd-kudos-blog            |
+|                                   | https://github.com/markdon                |
 
+Skills Summary
+-------
+Don't forget to fill this out with languages, tools, etc.
 
 
 
@@ -58,30 +68,50 @@ Add in some images?
 Include links to more info where possible. 
 
 ### Kudos Boards 'Docker'
-Stack: React/AngularJS, Node.js ([cote](https://github.com/dashersw/cote)) microservices, MongoDB,  Docker, Jenkins, Helm, Kubernetes, Google Cloud Platform<br>
+Stack: JavaScript (ES9), React/AngularJS, Node.js ([cote](https://github.com/dashersw/cote)) microservices, MongoDB,  Docker, Jenkins, Helm, Kubernetes, Google Cloud Platform<br>
 Product Page: https://kudosapps.com/boards<br>
 Authored Media: http://bit.ly/linkedin-multi-paste, http://bit.ly/kudos-blog-shortcuts
 
-Kudos Boards has seen the bulk of my work for the past two years, along with three other engineers. My primary focus has been developing new front end features in React and porting existing components from AngularJS to React. I'm responsible for the majority of the work for supporting mobile and touch devices. I've also been able to spend some time working on the rest of the stack when I built a new micro service that uses [Puppeteer](https://developers.google.com/web/tools/puppeteer/) to generate images of components from our applications. This involved working on the entire CI pipeline, writing the service's Dockerfile, creating a new Jenkins pipeline to automate building and deployment, updating Kudos Boards' Helm charts to include the new service and deploying Kudos Boards to Kubernetes on GCP using Helm.
+Kudos Boards is a highly scalable, microservices based, collborative task and information management application. Originally built as a cloud application, now deployable in any Kubernetes environment for customers to run privately.
+
+Kudos Boards has seen the bulk of my work for the past two years, along with three other engineers. My primary focus has been developing new front end features in React and porting existing components from AngularJS to React. I'm responsible for the majority of the work for supporting mobile and touch devices. I've also been able to spend some time working on the rest of the stack when I built a new micro service that uses [Puppeteer](https://developers.google.com/web/tools/puppeteer/) to generate images of components from our applications. 
+
+This involved working on the entire CI pipeline, writing the service's Dockerfile, creating a new Jenkins pipeline to automate building and deployment, updating Kudos Boards' Helm charts to include the new service and deploying Kudos Boards to Kubernetes on GCP using Helm.
 
 ### Social Connections Berlin Presentation
 
 Event Page: http://bit.ly/markd-socnx-berlin<br>
 Slide Deck: http://bit.ly/markd-pwa-slides
 
-In October 2018 I presented a session at the Social Connections conference in Berlin about Progressive Web Applications. PWAs were a trend I had been following for several months, around this time support by operating systems and browsers was almost complete, so a great topic to cover for the conference's 'New Technology' track. I was a bit nervous in the lead up, but worked with a very supportive team and had the chance to meet many of the attendees before my presentation. Overall, the session had great attendance and was well received, so I'm looking forward to makeing more presentations in the future!
+In October 2018 I presented a session at the Social Connections conference in Berlin about some of the latest concepts in front end application development: Progressive Web Applications. PWAs were a trend I had been following for several months, around this time support by operating systems and browsers was almost complete, so a great topic to cover for the conference's 'New Technology' track. I was a bit nervous in the lead up, but worked with a very supportive team and had the chance to meet many of the attendees before my presentation. Overall, the session had great attendance and was well received, so I'm looking forward to makeing more presentations in the future!
 
 ### Kudos Tools CCM Migrator
-Stack: Create React App, IBM Connections, JAVA EE, IBM WebSphere<br>
+Stack: JavaScript (ES9), Create React App, IBM Connections, JAVA EE, IBM WebSphere<br>
 Product Page: https://kudosapps.com/kudos-tools-ccm-migrator<br>
 Check out the demo video by me on the product page!
 
-CCM Migrator started as a one off project with ISW's consulting team and Belsoft Collaboration AG of Switzerland. Belsoft had a client that needed to migrate files and metadata out of IBM Connections Content Manager (CCM) into IBM Connections Files. Two months in and the application was mostly functional. The front end was very basic HTML generated by JSP and some basic javascript. My director approached me to 'productise' and 'make it look good' since he thought there may be opportunities to resell the application. Using my previous experience with both React and Websphere applications, I came up with a plan for how we could combind a React front end with a WebSphere application. My director and the consulting team were concerned about the effort needed to rebuild the front end on React, but I persisted. I built the modern looking React application and matched the previous features within 3 days. Well within expectations. I later used my Java experience to give recommendations to the consulting team for improving performance and fixing memory problems. 
+CCM Migrator started as a one off project with ISW's consulting team and Belsoft Collaboration AG of Switzerland. Belsoft had a client that needed to migrate files and metadata out of IBM Connections Content Manager (CCM) into IBM Connections Files. Two months in and the application was mostly functional. The front end was very basic HTML generated by JSP and some basic javascript. My director approached me to 'productise' the application since he thought there may be opportunities to resell the application. Using my previous experience with both React and Websphere applications, I came up with a plan for how we could combind a React front end with a WebSphere application. My director and the consulting team were concerned about the effort needed to rebuild the front end on React, but I persisted. I built the modern looking React application and matched the previous features within 3 days. Well within expectations. I later used my Java experience to give recommendations to the consulting team for improving performance and fixing memory problems. 
 
 
-### Kudos Boards 'Websphere'
+### Kudos Boards 'Websphere' for IBM Connections
+Stack: Bootstrap, backbone.marionette, IBM Connections, JAVA EE, DB2 SQL, IBM WebSphere<br>
+Authored Media: http://bit.ly/markd-kudos-blog<br>
+Customers: ABN AMRO Bank, Dutch Tax Office, Groz-Beckert
 
-### Kudos Badges
+For the past three years I have been the primary developer and maintainer of the WebSphere version of Kudos Boards for IBM Connections. Boards is a feature rich Kanban application that very tightly integrates with IBM Connections, an enterprise collaboration platform. It even stores it's data in the same database as another IBM Connections application.
+
+This is our most successful product and has led to me working closley with huge customers around the world. 
+
+### Kudos Badges for IBM Connections
+Stack: Dojo Toolkit, IBM Connections, DB2 SQL, Java EE, IBM WebSphere<br>
+Product Page: https://kudosapps.com/badges<br>
+Customers: Colgate-Palmolive, Pepsico, Wells Fargo
+
+Kudos Badges is a fully customisable achievement system for IBM Connections. Generally, users are awarded a badge based on whether a metric (database query that returns a number) has reached a certain threshold. This was built with a powerful metric and filtering system that made it easy for managers to create their own complex badges without having to write their own SQL.
+
+Over the past three years I have been responsible for multiple projects with Wells Fargo and Kudos Badges, covering the whole process of requirements solicitation, design and development. 
+
+
 
 
 Personal Stuff
