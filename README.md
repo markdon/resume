@@ -1,15 +1,9 @@
 Mark Donnellon
 ============
-Modern Web Application Developer
+![profile photo](https://avatars3.githubusercontent.com/u/9063681?s=460&v=4)<br>
+Web Application Developer
 ------------
-<style>
-table {
-    width:100%;
-}
-body {
-    max-width: 800px;
-}
-</style>
+
 |  |  |                
 |-----------------------------------|-------------------------------:           |
 | Hobart, Tasmania, Australia       | https://twitter.com/markdonnellon         |
@@ -19,7 +13,17 @@ body {
 
 Skills Summary
 -------
-Don't forget to fill this out with languages, tools, etc.
+Results driven Web Application Developer with 4 years of experience developing successful products using tools including React, Angular, Node.js, Docker and Cloud Services. I enjoy working closely with team members and clients, discussing approaches to problems and always thinking of how we can improve the way we work. 
+
+
+| Environments 	|     Languages    	| JS Libraries 	|      Tools      	|
+|:------------:	|:----------------:	|:------------:	|:---------------:	|
+| Web Browsers 	| JavaScript (ES9) 	|     React    	|      Docker     	|
+|    Node.js   	|        JSX       	|   AngularJS  	|     Jenkins     	|
+|    Android   	|       Java       	|     Gulp     	|      Gradle     	|
+|      iOS     	|        SQL       	|    eslint    	| Google Firebase 	|
+|   Unity 3D   	|                  	|     Babel    	| Cloud Functions 	|
+|              	|                  	|   socket.io  	|   Firestore DB  	|
 
 
 
@@ -61,14 +65,10 @@ Hobart
 
 My old IT Networking teacher and I ran the internal support/helpdesk for a software development company in Hobart that has since joined DXC. At the time, we had an office of 50 or so desks. Most of my tasks were basic IT support, managing AD users, wifi permissios, fixing PCs. I did get the chance to work on a few projects like adding new wifi access points and building a new file server.
 
-Projects
+Recent Projects
 --------------------
-List some projects, the client?, my role, tech stack, any significant accomplishment etc. 
-Add in some images?
-Include links to more info where possible. 
-
 ### Kudos Boards 'Docker'
-**Stack**: JavaScript (ES9), React/AngularJS, Node.js ([cote](https://github.com/dashersw/cote)) microservices, MongoDB,  Docker, Jenkins, Helm, Kubernetes, Google Cloud *Platform*<br>
+**Stack**: JavaScript (ES9), React/AngularJS, Node.js ([cote](https://github.com/dashersw/cote)) microservices, MongoDB,  Docker, Jenkins, Helm, Kubernetes, Google Cloud Platform<br>
 **Product Page**: https://kudosapps.com/boards<br>
 **Authored Media**: http://bit.ly/linkedin-multi-paste, http://bit.ly/kudos-blog-shortcuts
 
@@ -111,12 +111,16 @@ Kudos Badges is a fully customisable achievement system for IBM Connections. Gen
 
 Over the past three years I have been responsible for multiple projects with Wells Fargo and Kudos Badges, covering the whole process of requirements solicitation, design and development. 
 
-
-
-
-Personal Stuff
-----------------------------------------
-Travel, Activities, Homebrew, Marathons
-
 Education
 -----
+**University of Tasmania** | 2015<br>
+Bachelor of Computing (Software Development) 
+
+**TAFE Tasmania** | 2008<br>
+Diploma of Information Technology (Networking) ICA50405
+
+Personal Interests
+--------------
+If you made it down here, thank you! 
+
+On the weekends, I'm a volunteer committee member for [Hobart Games Society](http://www.hogs.org.au/), a public organisation that runs board game nights in halls around Hobart. I make *and share* homebrew beer, cider and wine, and aspire to enter a mead into competition. In the summer I try to kite surf without injuring myself. 
